@@ -101,9 +101,9 @@ $\begin{bmatrix}
 ### First Commit: 4d290af3a00b445443e66452fa26f41dcafe8083
 ### Latest Commit: 271c92a2efa6e6836188bfee8843dec48bb3e1d8
 ### branches
-1. master
+master
 
-5. 
+5. Gitstats
 
 ![organizer](organizer.png)
 ![Open Circuits](OpenCircuits.png)
@@ -111,7 +111,15 @@ $\begin{bmatrix}
 ![aips](aips.png)
 
 
+For the projects 990 and Open Circuits, the lines of code were about the same. However, for Organizer and aips, the lines of code that I calculated were way less than what gitstats calculated.
 
 
+6. Gource
 
-gitstats ./Organizer ./Organizer_out
+Unfortunately, I was unable to get gource working on my WSL. So, I used it on Windows. Thus, I was only able to get screenshots of the visualizations.
+
+![oranizer](gource_organizer.png)
+![Open circuits](gource_open_circuits.png)
+![990](gource_990.png)
+![aips](gource_aips.png)
+
