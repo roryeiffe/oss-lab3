@@ -76,6 +76,24 @@ $\begin{bmatrix}
 19. db-versioning
 20. expression-to-circuit
 
+## aips
+
+### 5 contributors
+### 343217 lines of code
+### First Commit: 3807b62ef2d425ca3bd964c0646a193a16a57e5a
+### Latest Commit: f36be74b097a0d7ef38b7a986fb82613c5eb60bd
+### branches
+1. master
+2. dependabot/npm_and_yarn/axios-0.21.1
+3. dependabot/npm_and_yarn/ini-1.3.8
+4. deploy
+5. feat/event_image_upload
+6. imprv/blog_slider
+7. imprv/documentation
+8. imprv/keyboard_accessibility
+9. list_feature
+10. private_feature
+
 ## 990 
 
 ### 1 contributor
@@ -87,6 +105,13 @@ $\begin{bmatrix}
 
 5. 
 
+![organizer](organizer.png)
+![Open Circuits](OpenCircuits.png)
+![990](990.png)
+![aips](aips.png)
 
 
 
+
+
+gitstats ./Organizer ./Organizer_out
